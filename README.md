@@ -33,7 +33,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=shohruxbek&count_private=true&show_icons=true&theme=default" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/shohruxbek">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohruxbek&theme=default" />
 </a>
 <br><br><br><br>
