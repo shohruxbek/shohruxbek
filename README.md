@@ -13,14 +13,13 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-
+<br><br>
 - 🔭 I’m currently working on [SamDTU](https://www.sammu.uz)
 
 - 🌱 I’m currently learning **FLUTTER** & **PHP**
 
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
 
-  ---
   <br><br>
 ### Open Source Projects
 
