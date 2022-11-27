@@ -1,6 +1,4 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2022/05/01/15/02/art-7167741__340.png" alt="cover" />
-</div>
+
 <br><br>
 <h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
