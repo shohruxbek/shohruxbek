@@ -18,11 +18,6 @@
 
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
 
-<br>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/shohruxbek/count.svg" />
-</p>
   <br><br>
 ### Open Source Projects
 
